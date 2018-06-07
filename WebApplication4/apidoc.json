@@ -1,0 +1,9 @@
+﻿{
+  "name": "Web API",
+  "version": "0.1.0",
+  "description": "apiDoc basic example",
+  "apidoc": {
+    "title": "Web API",
+    "url": "http://localhost:62287/api"
+  }
+}
